@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/saitejaportfolio/static/css/main.f4c2b71a.css",
+    "main.js": "/saitejaportfolio/static/js/main.da30e5f9.js",
+    "index.html": "/saitejaportfolio/index.html",
+    "main.f4c2b71a.css.map": "/saitejaportfolio/static/css/main.f4c2b71a.css.map",
+    "main.da30e5f9.js.map": "/saitejaportfolio/static/js/main.da30e5f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4c2b71a.css",
+    "static/js/main.da30e5f9.js"
+  ]
+}
